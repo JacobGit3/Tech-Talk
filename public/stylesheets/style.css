@@ -166,16 +166,6 @@ main {
   color: rgb(44, 43, 43);
 }
 
-.meta-comment:nth-child(odd) {
-  color: #b5ffae;
-  background-color:rgb(44, 43, 43);
-}
-
-.meta-comment:nth-child(even) {
-  color: rgb(44, 43, 43);
-  background-color: #b5ffae;
-}
-
 .comment {
   font-size: 20px;
   margin: 15px;
