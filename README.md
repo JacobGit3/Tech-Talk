@@ -51,6 +51,9 @@
   ---
   To test this application run this command in the console:  
   ```npm run seeds, npm start```
+  
+  Link to deployed application on Heroku:
+  https://murmuring-ocean-70089.herokuapp.com/
 
   ## Questions
 
